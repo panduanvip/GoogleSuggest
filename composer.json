@@ -1,0 +1,25 @@
+{
+    "name": "panduanvip/google-suggest",
+    "type": "library",
+    "description": "Generate keywords base on Google Suggest",
+    "keywords": ["Keyword Generator", "Web Extractor", "HTML Extractor", "Data Extractor", "Google Suggest", "Web Scraping"],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "homepage": "https://panduan.dev/google-suggest",
+
+    "authors": [
+        {
+            "name": "Yoyon Sugiono",
+            "email": "yoyonsugiono@gmail.com",
+            "homepage": "https://panduan.vip",
+            "role": "developer"
+        }
+    ],
+	
+    "autoload": {
+        "psr-4": {
+            "PanduanVIP\\WebExtractor\\": "src/"
+        }
+    }
+    
+}
