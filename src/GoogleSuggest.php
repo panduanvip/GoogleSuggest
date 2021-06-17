@@ -2,8 +2,6 @@
 
 namespace PanduanVIP\WebExtractor;
 
-use \RoNoLo\JsonExtractor\JsonExtractorService; 
-
 class GoogleSuggest
 {
     public static function get($keyword='', $lang='', $country='', $source='', $proxy='')
